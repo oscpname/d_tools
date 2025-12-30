@@ -9,10 +9,10 @@ the tool for external recon
    1.4 get full extended list of TLD
 
 2. for each TLD \
-   3.1 get subdomains \
-   3.2 get IPs \
-   3.3 ports and services \
-   3.4 URLs and JS urls \
+   2.1 get subdomains \
+   2.2 get IPs \
+   2.3 ports and services \
+   2.4 URLs and JS urls
 
 Module 1: general commands
 input: seed_domains.txt
