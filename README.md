@@ -6,7 +6,7 @@ the tool for external recon
    1.1 collect subdomains (crt, wayback) \
    1.2 resolve subdomains -> get IP \
    1.3 resolve IP -> check if any new TLD \
-   1.4 get full extended list of TLD  \
+   1.4 get full extended list of TLD
 
 2. for each TLD \
    3.1 get subdomains \
