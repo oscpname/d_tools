@@ -58,6 +58,7 @@ output: URLs
 * API analysis - after JS: subdomains final subdomain + gospider: cat subdomainizer_scan.txt | python3 /scripts/checkiner.py /localshara/scope_seeds.txt | sed 's|^|https://|' | httpx
 * make analysis of gospider linkfinder? do we need separate command?
 * make chown  - see internal script
+* make loop on TLD? run crt.sh? resolve ip? do we have new TLD - enhance the scope! 
 
 # docker log
 * Docker - copy of wordlists
